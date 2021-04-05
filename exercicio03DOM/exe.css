@@ -1,0 +1,14 @@
+body{
+    background-color:violet ;
+    font: 20pt Arial;
+}
+
+div#area{
+    font: 20pt;
+    background: green;
+    color: white;
+    width: 300px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
